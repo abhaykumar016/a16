@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AutoPromote AI",
+  "description": "An AI-powered automated outreach manager that generates promotional voice messages using Google Gemini and manages calling campaigns.",
+  "requestFramePermissions": []
+}
